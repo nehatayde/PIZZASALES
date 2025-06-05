@@ -39,10 +39,10 @@ Assist in decision-making for menu adjustments and promotional strategies.
 This project helps in making informed business decisions that enhance profitability, customer experience, and overall efficiency. 🚀
 
 # Tools & Library Used
-<img src="IMAGES/MYSQL.png" width="400"/> &nbsp;
+<img src="img/MYSQL.png" width="400"/> &nbsp;
 
 # Project Result
-[Click here to get full code](https://github.com/SarthakUdavant/PIZZAHUT/blob/main/PIZZA%20PROJECT.sql)
+[Click here to get full code](https://github.com/nehatayde/PIZZASALES/blob/main/PIZZA_SALES_ANALYSIS.sql)
 
 # Query Task
 
