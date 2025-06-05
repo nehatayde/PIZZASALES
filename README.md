@@ -1,5 +1,5 @@
 # PIZZSALES
-# <img src="https://c4.wallpaperflare.com/wallpaper/969/527/616/pizza-wallpaper-preview.jpg" width="800"/> &nbsp;
+# <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/55/32/7c/pizza-is-special-in-cafe.jpg?w=900&h=-1&s=1" width="900"/> &nbsp;
 # Project Overview
 The Pizzahut project aims to extract valuable business insights from a pizza restaurant’s sales database. By analyzing order details, pizza types, pricing, and customer preferences, the project provides key performance metrics that help in decision-making.
 
