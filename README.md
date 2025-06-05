@@ -49,7 +49,7 @@ This project helps in making informed business decisions that enhance profitabil
 1."Retrieve the total number of orders placed." 
 
 
-<img src="IMAGES/1 total no. orders.png" width="400"/> &nbsp;
+<img src="img/1 total no. orders.png" width="400"/> &nbsp;
 
 2."Calculate the total revenue generated from pizza sales."
 
