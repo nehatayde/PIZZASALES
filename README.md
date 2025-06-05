@@ -69,28 +69,28 @@ This project helps in making informed business decisions that enhance profitabil
 5."List the top 5 most ordered pizza types along with their quantities."
 
 
-<img src="IMAGES/5 top most pizzas.png" width="400"/> &nbsp;
+<img src="img/5 top most pizzas.png" width="400"/> &nbsp;
 
 6."Join the necessary tables to find the total quantity of each pizza category ordered."
 
 
-<img src="IMAGES/6 category of pizza.png" width="400"/> &nbsp;
+<img src="img/6 category of pizza.png" width="400"/> &nbsp;
 
 
 7."Determine the distribution of orders by hour of the day."
 
 
-<img src="IMAGES/7 order by hour.png" width="400"/> &nbsp;
+<img src="img/7 order by hour.png" width="400"/> &nbsp;
 
 8."Join relevant tables to find the category-wise distribution of pizzas."
 
 
-<img src="IMAGES/8 category wise distribution.png" width="400"/> &nbsp;
+<img src="img/8 category wise distribution.png" width="400"/> &nbsp;
 
 9."Group the orders by date and calculate the average number of pizzas ordered per day."
 
 
-<img src="IMAGES/9 avg.png" width="400"/> &nbsp;
+<img src="img/9 avg.png"/> &nbsp;
 
 10."Determine the top 3 most ordered pizza types based on revenue."
 
@@ -100,17 +100,17 @@ This project helps in making informed business decisions that enhance profitabil
 11."Calculate the percentage contribution of each pizza type to total revenue."
 
 
-<img src="IMAGES/11 contribution of pizz.png" width="400"/> &nbsp;
+<img src="img/11 contribution of pizz.png" width="400"/> &nbsp;
 
 12."Analyze the cumulative revenue generated over time."
 
 
-<img src="IMAGES/12 cumulative revenue.png" width="400"/> &nbsp;
+<img src="img/12 cumulative revenue.png" width="400"/> &nbsp;
 
 13."Determine the top 3 most ordered pizza types based on revenue for each pizza category."
 
 
-<img src="IMAGES/13 top 3 revenue based pizza category.png" width="400"/> &nbsp;
+<img src="img/13 top 3 revenue based pizza category.png" width="400"/> &nbsp;
 
 
 
