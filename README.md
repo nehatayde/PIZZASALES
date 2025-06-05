@@ -59,12 +59,12 @@ This project helps in making informed business decisions that enhance profitabil
 3."Identify the highest-priced pizza."
 
 
-<img src="IMAGES/3 heighest pizza.png" width="400"/> &nbsp;
+<img src="img/3 heighest pizza.png" width="400"/> &nbsp;
 
 4."Identify the most common pizza size ordered."
 
 
-<img src="IMAGES/4 common pizza size.png" width="400"/> &nbsp;
+<img src="img/4 common pizza size.png" width="400"/> &nbsp;
 
 5."List the top 5 most ordered pizza types along with their quantities."
 
