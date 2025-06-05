@@ -54,7 +54,7 @@ This project helps in making informed business decisions that enhance profitabil
 2."Calculate the total revenue generated from pizza sales."
 
 
-<img src="IMAGES/2 total revenue..png" width="400"/> &nbsp;
+<img src="img/2 total revenue..png" width="400"/> &nbsp;
 
 3."Identify the highest-priced pizza."
 
