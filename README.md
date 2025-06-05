@@ -95,7 +95,7 @@ This project helps in making informed business decisions that enhance profitabil
 10."Determine the top 3 most ordered pizza types based on revenue."
 
 
-<img src="IMAGES/10 top 3 revenue pizza.png" width="400"/> &nbsp;
+<img src="img/10 top 3 revenue pizza.png" width="400"/> &nbsp;
 
 11."Calculate the percentage contribution of each pizza type to total revenue."
 
